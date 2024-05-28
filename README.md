@@ -1,4 +1,4 @@
 # GoogleClone
 Página clon de Google desde mi perspectiva personal con CSS y HTML
-#Liga
+# Liga
 https://googleclone-aa.netlify.app
